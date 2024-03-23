@@ -1,0 +1,11 @@
+.light-theme {
+  background-color: #ffffff; /* белый фон */
+  color: #333333; /* темный текст */
+  border: 1px solid #cccccc; /* серая граница */
+  }
+  
+  .dark-theme {
+  background-color: #333333; /* темный фон */
+  color: #ffffff; /* светлый текст */
+  border: 1px solid #999999; /* светлая граница */
+  }
